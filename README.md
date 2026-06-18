@@ -1,17 +1,6 @@
 ### สวัสดีครับ 👋 I'm Pop
-
-**Aspiring Data Engineer** — ผมชอบสร้าง data pipeline ที่ *ทนทาน ทดสอบได้ และนำไปใช้ได้จริง*
-แล้วต่อยอดเป็น analysis + เครื่องมือที่คนอื่นเอาไปใช้ต่อได้
-
-I build resilient, tested, production-minded data pipelines — then turn them into analysis and tools people can actually use.
-
-- 🔭 **กำลังโฟกัส:** เก็บ → ทำความสะอาด → วิเคราะห์ ข้อมูลตลาด *จริง* แล้วเปลี่ยนเป็น insight
-- 🛠️ **Stack:** Python · pandas · scikit-learn · Streamlit · pytest · GitHub Actions (CI) · SQL
-- 🌏 Thailand · ทำงานได้ทั้งภาษาไทยและอังกฤษ
 - 📫 ติดต่อ: **pop.kns@gmail.com**
-
----
-
+- 
 #### 🚀 Featured projects
 
 ### 1 · [thai-freelance-market-analysis](https://github.com/PopKns/thai-freelance-market-analysis)
