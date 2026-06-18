@@ -20,7 +20,7 @@ Data product แบบ **end-to-end** ที่วิเคราะห์ตล
 
 | | |
 |---|---|
-| 🔌 **Data Engineering** | เก็บข้อมูลจาก marketplace 222k+ gig — rate-limited, cached, anonymized ตาม PDPA → clean → analyze (pipeline แยก stage ชัด รันซ้ำได้) |
+| 🔌 **Data Engineering** | สุ่มตัวอย่าง ~3,000 gig (seeded, ทำซ้ำได้) จากตลาด 222k — rate-limited, cached, anonymized ตาม PDPA → clean → analyze (pipeline แยก stage ชัด) |
 | 📊 **Dashboard** | Streamlit 4 แท็บ: แนะนำราคา · แผนที่ดีมานด์ · ค้นหาโอกาส · คัดกรองความน่าเชื่อถือ |
 | 🤖 **ML** | **prototype** คัดกรองความผิดปกติแบบ unsupervised — IsolationForest + rule flags + เหตุผลที่อธิบายได้ (เป็น *triage* ให้คนตรวจ ไม่ใช่ตัวฟันธง) |
 | ✅ **Engineering rigor** | 16 unit tests · ruff lint · GitHub Actions CI · เอกสาร ethics/compliance |
