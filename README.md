@@ -12,11 +12,10 @@ I build resilient, tested, production-minded data pipelines — then turn them i
 
 ---
 
-#### 🚀 Featured project
+#### 🚀 Featured projects
 
-### [thai-freelance-market-analysis](https://github.com/PopKns/thai-freelance-market-analysis)
-Data product แบบ **end-to-end** ที่วิเคราะห์ตลาดฟรีแลนซ์ไทย (Fastwork) ตั้งแต่เก็บข้อมูลจนถึง dashboard
-
+### 1 · [thai-freelance-market-analysis](https://github.com/PopKns/thai-freelance-market-analysis)
+Data product แบบ **end-to-end** ที่วิเคราะห์ตลาดฟรีแลนซ์ไทย (Fastwork) — *ตลาด ณ ปัจจุบัน*
 🔗 **Live demo:** https://thai-freelance-market-analysis-myvghxmmjph2yhesn9kvwa.streamlit.app/
 
 | | |
@@ -26,6 +25,16 @@ Data product แบบ **end-to-end** ที่วิเคราะห์ตล
 | 🤖 **ML** | **prototype** คัดกรองความผิดปกติแบบ unsupervised — IsolationForest + rule flags + เหตุผลที่อธิบายได้ (เป็น *triage* ให้คนตรวจ ไม่ใช่ตัวฟันธง) |
 | ✅ **Engineering rigor** | 16 unit tests · ruff lint · GitHub Actions CI · เอกสาร ethics/compliance |
 
+### 2 · [thai-freelance-trends](https://github.com/PopKns/thai-freelance-trends)
+ตลาดเดียวกันแต่เพิ่ม **มิติเวลา** — ตลาดเปลี่ยนยังไงตั้งแต่ 2019 (โดยเฉพาะหลัง AI)
+🔗 **Live demo:** https://thai-freelance-trends-dvynwtjqmevbmtt7xfnudg.streamlit.app/
+
+| | |
+|---|---|
+| 💡 **Resourcefulness** | gig ไม่มีวันที่สร้าง → reconstruct ตลาดย้อนหลังจาก **Wayback Machine** (56k gig, 2019–2026) |
+| 📈 **Analysis** | ส่วนแบ่งหมวดตามเวลา + trend slope/R² (แยก trend จริง/noise) + before/after AI — งานดิจิทัลที่ AI ทำแทนได้หดทั้งแผง |
+| 🔬 **Statistical honesty** | จัดการ bias อย่างชัดเจน: ใช้ share ไม่ใช่ raw counts, archive-year เป็น proxy, correlation ≠ causation |
+
 ---
 
-<sub>🚧 กำลังเพิ่มโปรเจกต์ใหม่ ๆ เร็ว ๆ นี้ — More projects coming soon.</sub>
+<sub>โปรเจกต์เหล่านี้ต่อยอดกัน — ตัวที่ 1 = ตลาดวันนี้, ตัวที่ 2 = ตลาดข้ามเวลา · More coming soon.</sub>
